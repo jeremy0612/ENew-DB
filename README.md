@@ -1,6 +1,6 @@
 #==================== ENEWS-DB 📰📰 ================================
 #===================================================================
- This is my first time creating a database using MS SQL Sever 👽👽
+* This is my first time creating a database using MS SQL Sever 👽👽
  - This database building in order to manage a e-Newspaper database,
  with including Reader, Editor, Reporter, News ,... and other objects.
  🎈🎈
